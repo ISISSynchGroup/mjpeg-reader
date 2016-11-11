@@ -16,4 +16,4 @@
 *.lvlps
 
 #Build
-build*
+build/*
