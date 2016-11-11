@@ -17,5 +17,9 @@ The conversion from JPEG frame data to LabVIEW Pixmap is currently only supporte
 ## Performance
 The performance of this library has not been battle tested but it is .Net memory leak free (thanks Desktop Execution Trace Toolkit).
 
+## Installation
+Install the VIPM package from releases.
+
 ## Requirements
 LabVIEW 2015 SP1
+VIPM 2014 Free Edition
